@@ -1,0 +1,1121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ekdikēsis or A discourse of vengeance Delivered in a sermon preached at Dorchester, at the assizes holden there for the county of Dorset, March. 4. 1663. By Henry Glover rector of Shroton.</title>
+            <author>Glover, Henry, b. 1624 or 5.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42869</idno>
+            <idno type="STC">Wing G889B</idno>
+            <idno type="STC">ESTC R217417</idno>
+            <idno type="EEBO-CITATION">99829084</idno>
+            <idno type="PROQUEST">99829084</idno>
+            <idno type="VID">33520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ekdikēsis or A discourse of vengeance Delivered in a sermon preached at Dorchester, at the assizes holden there for the county of Dorset, March. 4. 1663. By Henry Glover rector of Shroton.</title>
+                  <author>Glover, Henry, b. 1624 or 5.</author>
+               </titleStmt>
+               <extent>[4], 23, [i.e. 24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Brome. And are to be sold by William Churchill. Book-seller in Dorchester,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of title is in Greek characters.</note>
+                  <note>Running title reads: A discourse of vengeance.</note>
+                  <note>Final page misumbered 23.</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33520:1" rendition="simple:additions"/>
+            <p>ἘΚΔΊΚΗΣΙΣ
+
+OR A
+DISCOURSE
+OF
+Vengeance.</p>
+            <p>DELIVERED
+In a Sermon Preached at <hi>Dorcheſter,</hi> at
+the Aſſiſes holden there for the <hi>County</hi> of
+DORSET,
+<hi>March.</hi> 4. 1663.</p>
+            <p>By <hi>Henry Glover</hi> Rector of Shroton.</p>
+            <q>
+               <l>Id cogitare; quomodo quis remordeat</l>
+               <l>Mordentem, &amp; nocenti noceat,</l>
+               <l>Ferae est, non Hominis</l> 
+               <bibl>
+                  <hi>Muſon.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Henry Brome.</hi> And are to be ſold by <hi>William
+Churchill.</hi> Book-ſeller in <hi>Dorchester.</hi> 1664.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:33520:2"/>
+            <p>Per legi hanc Concionem, cui Titulus (ἘΚΔΊΚΗΣΙΣ) in
+qua nihil reperit Doctrinae, Diſciplinaeve Eccleſiae An<g ref="char:EOLhyphen"/>glicanae,
+aut bonis moribus contrarium.</p>
+            <closer>
+               <signed>Joh. Hall R. P. D. Epiſc. Lond. à ſac. Domeſt.</signed>
+               <date>Aprill. 14: 1664</date>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33520:2"/>
+            <head>To the Right VVorshipful, and my moſt
+Honoured Patron, THOMAS FREKE <abbr>Eſq</abbr>
+High Sheriffe of the County of Dorſet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T</hi> will be my ſufficient <hi>Apology</hi> for the pub<g ref="char:EOLhyphen"/>liſhing
+of this Sermon, to all thoſe that
+know in what <hi>Tyes of duty</hi> I ſtand
+bound to you, that <hi>you commanded me,</hi>
+firſt to <hi>Preach</hi> it, and then to <hi>Print</hi> it.
+A <hi>Command</hi> by no means, without the
+deepeſt ſtain of <hi>ingratitude,</hi> to be diſobeyed by me; were
+it but onely to take this <hi>opportunity</hi> of declaring to the
+world, <hi>That</hi> there is no man upon earth, to whom I ſtand
+ſo <hi>particularly oblieged</hi> (not at all to diſparage the cur<g ref="char:EOLhyphen"/>teſies
+of other Friends) for many great and <hi>extraordinary
+Favours,</hi> as to your ſelf. You have been pleaſed not onely
+to make choice of me for your <hi>Miniſter,</hi> and freely to pre<g ref="char:EOLhyphen"/>ſent
+me with a <hi>Living,</hi> but to give me many other <hi>encou<g ref="char:EOLhyphen"/>ragements,</hi>
+not uſual for <hi>Patrons</hi> to beſtow upon their
+<hi>Clerks.</hi> And indeed, ſhould you not be a <hi>Noble Patron,</hi>
+it would be a greater <hi>Wonder,</hi> then to ſee many others
+<hi>Ignoble</hi> and <hi>Baſe;</hi> ſince (I cannot but think) this <hi>Ver<g ref="char:EOLhyphen"/>tue</hi>
+is deſcended down to you by <hi>Inheritance,</hi> together
+with your <hi>Eſtate,</hi> and you muſt needs degenerate from
+your <hi>Anceſtors,</hi> ſhould you be otherwiſe; Particularly your
+excellent Grandfather, Sir <hi>Thomas Freke,</hi> whoſe <hi>Name</hi>
+is ſtill like a <hi>Precious Oyntment,</hi> and whom I the rather
+mention (with <hi>Honour</hi> to his <hi>Memory</hi>) becauſe among
+many other works of <hi>Piety</hi> and <hi>Charity</hi> that he abounded
+<pb facs="tcp:33520:3"/>
+in, he did at his own <hi>Charge</hi> raiſe the <hi>Structure of this
+Church</hi> (of which I am through your Bounty a Miniſter)
+from the <hi>Foundation.</hi> By whoſe <hi>Munificence,</hi> as we have
+now a <hi>Decent</hi> and <hi>Comely Place</hi> to ſerve God in; ſo he
+himſelf hath built his own <hi>Monument, Aere perennius,</hi>
+which will keep his <hi>Name</hi> alive for many Generations, af<g ref="char:EOLhyphen"/>ter
+his <hi>Body</hi> is conſumed, and his <hi>Bones</hi> are rotten. You
+carry <hi>both his Names,</hi> which cannot but frequently mind
+you of his <hi>Vertues,</hi> and incite you to write after ſo fair a
+<hi>Copy.</hi> To expatiate in your <hi>perſonall Commendations</hi> is
+not the Buſineſs of this <hi>Epiſtle:</hi> ſince I know your <hi>Diſpo<g ref="char:EOLhyphen"/>ſition</hi>
+to be as farre from <hi>vain-glory,</hi> (as I can truly ſay)
+mine is from <hi>Flattery;</hi> and to <hi>Praiſe</hi> you, would be the
+ready way to <hi>diſpleaſe</hi> you. Indeed that is the moſt Chaſt
+and <hi>Immaculate goodneſs,</hi> which doth good, and deſires
+not to be taken <hi>Notice</hi> of.</p>
+            <p>Sir, I beſeech you to accept of this ſlender Teſtimony of
+my <hi>Thankfulneſs,</hi> the following Sermon; which paſſing
+under the <hi>Protection</hi> of your Name, will (I hope) meet
+with the kinder entertainment from all that know You.
+And together with this, my heartieſt <hi>Prayers, That God</hi>
+would be pleaſed to enrich your ſoul with all <hi>Spiritual and
+Heavenly Bleſſings in Chriſt Jeſus,</hi> proportionable to that
+large Meaſure of outward and <hi>Temporal Bleſſings,</hi> which
+he hath beſtowed upon you, that ſo you may be <hi>happy here,</hi>
+and <hi>happy hereafter;</hi> which is and ſhall be the daily
+Prayer of</p>
+            <closer>
+               <salute>Honoured Sir,</salute>
+               <signed>Your moſt obliged ſervant
+and devoted Chaplaine.
+<hi>HENRY GLOVER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:33520:3"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+OR A
+DISCOURSE
+OF
+Vengeance,</head>
+            <epigraph>
+               <bibl>ROM. 12. 19.</bibl>
+               <q>Dearly beloved, Avenge not your ſelves, but rather give
+place unto wrath; for it is written, Vengeance is mine,
+I will repay, ſaith the Lord.</q>
+            </epigraph>
+            <p>MAn is a <hi>middle Creature</hi> betwixt an <hi>Angel</hi> and a
+<hi>Beaſt.</hi> In reſpect of his <hi>ſoul,</hi> and thoſe Noble
+<hi>Intellectual Endowments,</hi> which make him ca<g ref="char:EOLhyphen"/>pable
+of <hi>Grace and vertue</hi> here, and of <hi>Glory and Immor<g ref="char:EOLhyphen"/>tality</hi>
+hereafter, he comes near to the nature of <hi>Angels.</hi>
+But then in reſpect of his <hi>Body,</hi> he partakes as much of
+the nature of <hi>Beaſts;</hi> The <hi>matter</hi> the ſame, the <hi>Concupiſci<g ref="char:EOLhyphen"/>ble
+and Iraſcible Faculties</hi> common to both, which (if
+not regulated by better Principles then the <hi>School of Na<g ref="char:EOLhyphen"/>ture</hi>
+affordeth) make him as greedily to hunt after <hi>ſen<g ref="char:EOLhyphen"/>ſual
+ſatisfaction,</hi> and as eagerly oppoſe what ever ſtands
+<pb n="2" facs="tcp:33520:4"/>
+in the way of that purſuit, as any <hi>Beaſt</hi> whatſoever. Hence
+<hi>Clemens Alexandrinus</hi> calls mankind <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Clem. Alex. Protrept in Principio.</note>
+the wildeſt of all Beaſts, which the Divine voice of the
+<hi>Heavenly Charmer</hi> is onely able to make Tame. And
+St. <hi>Baſil</hi> compares Revenge to the <hi>Fighting of Dogs;</hi> one
+Dog <hi>barks</hi> at his fellow,<note place="margin">Baſil. Hom. 21.</note> the next <hi>bites</hi> him for barking,
+and in a little Time all the Dogs in the pariſh are toge<g ref="char:EOLhyphen"/>ther
+by the Ears. The Apoſtle purſues the ſame <hi>Metaphor</hi>
+when he calls it <hi>Biting and Devouring one another,</hi> Gal.
+5. 15. <hi>If ye bite and devour one another, take heed yee
+be not conſumed one of another.</hi> And this gave occaſion
+to that <hi>Fancy</hi> of the <hi>Poet,</hi> that when <hi>Prometheus</hi> made
+man (having ſpent all his ſkill before in the framing of
+other Creatures) he was fain to <hi>patch</hi> him up,<note place="margin">Hor. Car. l. 1. Ode 16.</note> by taking
+a <hi>Piece</hi> of one, and a <hi>Piece</hi> of another, and among the
+Reſt, he gave him a <hi>Lions Heart.</hi> Hence that proneneſs
+to Anger, which is nothing elſe but <hi>
+                  <g ref="char:V">Ʋ</g>lciſcendi Libido,</hi>
+ſaith St.<note place="margin">De Civ. l. 13. C. 15.</note> 
+               <hi>Auſtine,</hi> a Deſire to be revenged; and that plea<g ref="char:EOLhyphen"/>ſure
+which men are apt to take in Revenge, that ſame
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Rendring of Evill for Evill,</hi>
+which is the Exerciſe of wrath; and a ſin that gives ſuch
+a kind of Pleaſure and ſatisfaction to malice, as <hi>ſcratching</hi>
+doth to one that hath the <hi>Itch;</hi> it affords a preſent Delight
+though he be the ſorer for it afterward. <hi>O that we had of
+his Fleſh, we cannot be ſatisfied,</hi> ſay they in <hi>Job</hi> 31. 31. as
+if nothing could content them, but a <hi>Lion-like Rage,</hi> to
+tear in pieces him whom they hated. Thus is <hi>Revenge</hi>
+in Mankind a ſin of that Impetuoſity and violence, that
+it hath employed the wiſeſt Men in all ages (and all too
+little) to ſet bounds to it.</p>
+            <p>1. The <hi>Heathen Philoſophers</hi> did ſomething that
+way. <hi>Aristotle</hi> tells us in his <hi>Ethicks</hi> that it is bet<g ref="char:EOLhyphen"/>ter
+<pb n="3" facs="tcp:33520:4"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to ſuffer injury then do it.</hi> And
+he gives this ſolid Reaſon for it, Becauſe to do wrong
+is an <hi>Effect of Improbity,</hi> but to ſuffer it patiently the
+<hi>Fruit of Vertue.</hi>
+               <note place="margin">
+                  <hi>Orig.</hi> contra Caelſum b. 7.</note> 
+               <hi>Plato</hi> goes farther (as <hi>Origen</hi> cites him a<g ref="char:EOLhyphen"/>gainſt
+<hi>Celſus</hi>) and forbids not onely <hi>to do</hi> an injury, but
+<hi>to revenge</hi> an injury done. But theſe <hi>Philoſophers</hi> differ<g ref="char:EOLhyphen"/>ing
+ſometimes from themſelves, and being contradicted
+by each other, ſome making Revenge the <hi>Lawfull Iſſue
+of fortitude,</hi> as others did patient ſuffering the <hi>Product
+of meekneſs,</hi> their Doctrine took no more effect, then the
+ſeveral <hi>Tempers and diſpoſitions</hi> it met withall would al<g ref="char:EOLhyphen"/>low
+it; the <hi>Angry man</hi> finding enough in them to juſtify
+his <hi>Revenge,</hi> as well as the <hi>Meek man</hi> to content and ſa<g ref="char:EOLhyphen"/>tisfy
+his <hi>Patience.</hi>
+            </p>
+            <p>2. <hi>Moſes</hi> the mouth of God to the <hi>Iſraelites</hi> and
+therefore the <hi>Ableſt,</hi> the meekeſt man upon Earth (<hi>Num.</hi>
+12. 3.) and therefore the <hi>Fitteſt</hi> to ſupreſſe, the ſin
+of <hi>Revenge,</hi> layes down more punctuall Precepts to this
+purpoſe, <hi>Levit.</hi> 19. 17, 18. <hi>Thou ſhalt not hate thy Bro<g ref="char:EOLhyphen"/>ther
+in thine Heart; thou ſhalt not avenge nor bear any
+grudge againſt the Children of thy people; but thou ſhalt
+love thy neighbour as thy ſelf, I am the Lord.</hi> Now this
+being a <hi>Law</hi> ſtampt with Gods own Authority, and of
+<hi>Divine Revellation,</hi> was likely to have had better Effects,
+then what was onely the Product of Naturall Light, and
+had nothing but the bare word of a <hi>Philoſopher</hi> to ſup<g ref="char:EOLhyphen"/>port
+it againſt the unruly Paſſions of men. But there
+were <hi>two things</hi> eſpecially which hindered the deſired
+ſucceſſe of that Law. <hi>Firſt</hi> the <hi>Jews</hi> looking upon none
+as their Brother or neighbour, but onely a Jew. And <hi>ſe<g ref="char:EOLhyphen"/>condly</hi>
+the <hi>Phariſes</hi> corrupt Gloſs upon that Text of the
+Law, <hi>Thou ſhalt love thy Neighbour as thy ſelf,</hi> which they
+Expounded, <hi>Thou ſhall love thy neighbour, and hate thine
+<pb n="4" facs="tcp:33520:5" rendition="simple:additions"/>
+Enemy. Mat.</hi> 5. 43. By the <hi>firſt</hi> of theſe all mankind
+(beſide a <hi>Jew</hi> or a <hi>Proſelite</hi>) was cut off from any Bene<g ref="char:EOLhyphen"/>fit
+by that Law; and by the <hi>ſecond,</hi> the <hi>Jews</hi> themſelves
+(too prone to Revenge) were taught ſo to interpret it as
+their <hi>Duty,</hi> to performe any ſuch civilites to an Enemy,
+although a Jew.</p>
+            <p>3. But <hi>Jeſus Chriſt</hi> the great ſhepheard of the ſheep;
+whoſe buſineſſe into the world was to pull down the par<g ref="char:EOLhyphen"/>tition
+<hi>Wall,</hi> to make the whole world one great <hi>Frater<g ref="char:EOLhyphen"/>nity,</hi>
+one common <hi>ſheepfold,</hi> began this great work in his
+<hi>Sermon</hi> upon the Mount (<hi>Mat</hi> 5.) which laying down
+more preſſing, more particular and more extenſive
+Precepts, for <hi>Bearing of wrongs Loving of Enemies,</hi> and
+<hi>Doing good for Evil,</hi> then ever the world before was ac<g ref="char:EOLhyphen"/>quainted
+withal, And the <hi>Apoſtles</hi> who followed after,
+treading in their Maſters ſteps; preſſed nothing more
+frequently, then an holy <hi>Amneſty</hi> of injuries, and <hi>forgi<g ref="char:EOLhyphen"/>ving</hi>
+of Enemies; looking upon no vice ſo univerſally
+oppoſite to <hi>Chriſtianity</hi> as Anger and <hi>Revenge.</hi> Among
+the many Precepts and Exhortations to this purpoſe, this
+is one that I have now read unto you, <hi>Dearly Beloved, a<g ref="char:EOLhyphen"/>venge
+not your ſelves, but rather give place unto wrath;
+for it is written, &amp;c.</hi>
+            </p>
+            <p>In which words you may obſerve two general parts,
+viz. <hi>A Prohibition,</hi> and <hi>A Proof.</hi> The <hi>Prohibition</hi> in the
+former part of the Text, <hi>Dearly Beloved, Avenge not
+your ſelves, but rather &amp;c:</hi> The <hi>proof</hi> in the following
+words, <hi>For it is written Vengeance is mine, I will repay,
+ſaith the Lord.</hi>
+            </p>
+            <p>In the firſt of theſe you may be pleaſed to ob<g ref="char:EOLhyphen"/>ſerve.</p>
+            <p>1. A <hi>Compellation</hi> by way of Preface, <hi>Dearly Belo<g ref="char:EOLhyphen"/>ved,
+ſignificans Vindictam dilectione repugnare,</hi> ſaith <hi>A<g ref="char:EOLhyphen"/>retius.</hi>
+               <pb n="5" facs="tcp:33520:5" rendition="simple:additions"/>
+The Apoſtle being with this Compellation, to in<g ref="char:EOLhyphen"/>ſinuate
+into them, that the great duty of Chriſtians is <hi>to
+love one another,</hi> as Chriſt loved them, with which the
+ſin of <hi>Revenge</hi> is utterly inconſiſtent. You looſe that No<g ref="char:EOLhyphen"/>ble
+Title of <hi>Beloved</hi> if you ſtudy Revenge.</p>
+            <p>2. The <hi>Prohibition</hi> it ſelf, Avenge not your ſelves.
+Revenge indeed is <hi>ſolatium doloris</hi> as <hi>Tertullian</hi> calls it;
+but withall,<note place="margin">Aug. Qu. 70 ſuper L. v. t.</note> it is <hi>De alieno malo,</hi> ſaith St. <hi>Auſtin;</hi> A kind
+of ſolacing our own ſorrows in another mans miſery. And
+how unſuitable is this to thoſe that are Members of the
+ſame Body? The <hi>Hand</hi> doth not rejoice if the <hi>Foot</hi> be
+broken, nor the <hi>Foot</hi> glory if the <hi>Eye</hi> be put out. Re<g ref="char:EOLhyphen"/>member
+what you are, and <hi>avenge not your ſelves.</hi>
+            </p>
+            <p>3. A <hi>Remedy or Direction,</hi> which is to be uſed in<g ref="char:EOLhyphen"/>ſtead
+of Revenge, <hi>But rather give place unto wrath.</hi> Ei<g ref="char:EOLhyphen"/>ther
+firſt,<note place="margin">Orig. in loc.</note> to the <hi>wrath of man,</hi> by yeilding to it, and en<g ref="char:EOLhyphen"/>devouring
+to appeaſe it; for <hi>A ſoft anſwer turneth away
+wrath, but grieveous words ſtir up anger,</hi> Proverbs 15. 1.
+When two <hi>Flints</hi> ſtrike together <hi>Fire</hi> comes out,
+but ſtrike a <hi>Flint</hi> againſt <hi>Wool</hi> it will not do ſo. Or elſe,
+<hi>Give place un<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o wrath,</hi> that is, to the <hi>wrath of God,</hi> by re<g ref="char:EOLhyphen"/>ferring
+the whole matter to his Deciſion. And this brings
+in the <hi>Proof,</hi> the ſecond part of my Text; where obſerve
+again.</p>
+            <p>1. <hi>Gods Prerogative,</hi> Vengeance is mine. The place
+is in Deut. 32. 35. <hi>To me belongeth Vengeance and Recom<g ref="char:EOLhyphen"/>pence.</hi>
+God claims it as his Right, we muſt not meddle
+with it. For to rob God of his <hi>Prerogative-Rights,</hi> is the
+Higheſt ſort of <hi>Sacriledge.</hi> You may as juſtly, though
+not as eaſily rob him of his <hi>Thunder.</hi> Vengeance is mine
+(ſaith God) touch it not.</p>
+            <p>2. <hi>Gods promiſe,</hi> I will repay, ſaith the Lord. This is
+to prevent an objection. Perhaps (may the Angry man
+<pb n="6" facs="tcp:33520:6"/>
+ſay) God will never mind the buſineſs ſo far, as to do me
+Right; and then, <hi>Mihi permiſiſſ<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e debnerat, ſi ipſe non
+praeſtat,</hi>
+               <note place="margin">Tert adverſ. Marc. l. 4.</note> (as <hi>Tertullian</hi> heightens the objection) God
+ſhould ſuffer me to do that, which he never intends to
+do himſelf. Yes, ſaith God, I will do thee Right, fear not;
+for <hi>Vengeance is mine, I will repay, ſaith the Lord.</hi>
+            </p>
+            <p>The words being thus <hi>opened,</hi> that you may ſee the
+<hi>Inſide</hi> of them, I muſt now crave leave in the handling of
+them, to tread in a <hi>Method</hi> a little unuſual to my ſelf,
+viz: <hi>First,</hi> to obſerve the firſt Riſe and ſpring of
+Revenge, as it iſſues clear as <hi>Chryſtal</hi> out of the
+Throne of God. <hi>Secondly,</hi> to trace it down through
+the ſeveral Chanells and Currents of <hi>Magistracy,</hi> where
+it runs ſtill clear, unleſſe it be troubled by ſome unjuſt,
+and indirect Courſes. And <hi>laſt of all,</hi> to ſee how this <hi>clear
+water</hi> becomes a very <hi>puddle,</hi> when once it is mudied by
+the unclean Feet of the multitude. Briefly, we ſhall ſee
+theſe Three things;
+<list>
+                  <item>1. How Vengeance is Gods Prerogative.</item>
+                  <item>2. How it is the Magiſtrates Duty.</item>
+                  <item>3. How it is the Peoples Sin.</item>
+               </list>
+            </p>
+            <p>1. Vengeance is <hi>Gods Prerogative.</hi> Here he claims it;
+<hi>Vengeance is mine, ſaith the Lord.</hi> God is primarily and
+originally the <hi>Revenger,</hi> and none but he. Nor hath any
+Perſon whatſoever an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ſelf-terminated
+power</hi> to take away Life, but onely he that hath power
+to give Life. And as this is <hi>Gods Prerogative,</hi> ſo he held
+it a long time in his own hands; nor doth it appear that
+ever the ſword of Juſtice was drawn, or any <hi>Capitall pu<g ref="char:EOLhyphen"/>niſhment</hi>
+inflicted till after the <hi>Floud,</hi> which was above
+1600 years at leaſt after the Creation.<note place="margin">Lactan. div. Inſtit. lib. ca. 10.</note> 
+               <hi>Adhuc enim vide<g ref="char:EOLhyphen"/>batur
+Nefas, quamvis malos, tamen Homines, ſupplicio
+capitis afficere,</hi> ſaith <hi>Lactantius;</hi> For as yet it ſeemed an
+<pb n="7" facs="tcp:33520:6"/>
+Heinous thing to put any man to Death, though he were
+a wicked man. When <hi>Cain</hi> had killed his Brother, <hi>God
+himſelf</hi> took the Judgement ſeat, arraigned, endited,
+and pronounced ſentence againſt him, as the onely <hi>Re<g ref="char:EOLhyphen"/>venger
+of Bloud.</hi> Nor was that the ſentence of Death,
+but he was condemned to be a <hi>Vagabond</hi> and <hi>Runagate</hi>
+upon the Earth, purſued by the Furies of his own guilty
+Conſcience;<note place="margin">Fag in <hi>Gen.</hi> 4. 12. Munſt. in <hi>Gen.</hi> 96.</note> which God appointed to be his executio<g ref="char:EOLhyphen"/>ners
+for that ſin. Whence <hi>Fagius</hi> and <hi>Munster</hi> have both
+given their Opinion, that before the Floud no mans life
+was taken away by the Hand of Juſtice; the greateſt
+puniſhment that we find inflicted on the greateſt Male<g ref="char:EOLhyphen"/>factor,
+being only <hi>Baniſhment</hi> and <hi>Excomunication</hi> from
+the Church, which (in the defect of a more ſevere Pun<g ref="char:EOLhyphen"/>iſhment)
+was accompanied with the <hi>Terors of God</hi> upon
+the ſoul. So that though the <hi>Poets</hi> Fiction of the <hi>Golden
+Age</hi> was but a Fiction in this, that he thought there were
+no <hi>Injuries</hi> nor <hi>Outrages</hi> that deſerved Death commited
+during that time; <hi>Sponte ſua ſine Lege Fidem Rectum<g ref="char:EOLhyphen"/>que
+colebant:</hi> yet it holds true enough in the other part,
+<hi>Nec ſupplex Turba timebat Judicis ora ſui, ſed erant ſine
+Iudice tuti.</hi>
+               <note place="margin">Vide Grot de Jure B. &amp; P. b. 1. c. 2. §. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> There was no ſtanding authorized Judge, to
+puniſh ſuch crimes with death. And thus ſtood the Caſe
+in that firſt Age of the world, till after the Floud: God
+as the <hi>ſupreme Revenger</hi> kept the ſword in his own hand,
+and did not communicate his power with any <hi>Creaturae</hi>
+whatſoever. And ſo <hi>Vengeance is Gods Prerogative;</hi>
+which was my firſt particular.</p>
+            <p>2. Yet now, it is become the <hi>Magistrates Duty,</hi> and
+that by vertue of a <hi>Delegation</hi> or <hi>Deputation</hi> from God
+himſelf, <hi>Gen. 9. 6. Who ſo ſhedeth mans bloud, by man
+ſhall his Bloud be ſhed, for in the Image of God made he
+Man.</hi> By <hi>man</hi> ſhall his bloud be ſhed; not by <hi>every
+<pb n="8" facs="tcp:33520:7" rendition="simple:additions"/>
+man</hi> not by <hi>any man</hi> that will, not by a <hi>private man,</hi> but
+by the <hi>Magiſtrate.</hi>
+               <note place="margin">Maſius.</note> The word <hi>Man</hi> is here put by way
+of Eminency, to ſignify <hi>Egregium prae Caeteris atque exi<g ref="char:EOLhyphen"/>mium
+Virum,</hi> an extraordinary Man. And for the man<g ref="char:EOLhyphen"/>ner
+of executin<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Juſtice in the ſheding of ſuch guilty
+Bloud, the <hi>Chaldee Paraphraſe</hi> gives us a light, which
+reads that Text thus, <hi>Cum Teſtibus ex ſententia Judicis
+fundetur ſanguis ejus,</hi> His Bloud ſhall be ſhed by the ſen<g ref="char:EOLhyphen"/>tence
+of a Judge, upon the Depoſition of witneſſes.
+Whereupon <hi>Munster</hi> affirmes of that Text, that it is
+<hi>Fons ex quo manat totum jus civile, &amp; jus Gentium;</hi> The
+Fountain from whence all our Civil, and National Laws
+do flow. It being not to be queſtioned, but God hath
+put the power of <hi>ſmaller Controverſies</hi> into their Hands,
+into whoſe hands he hath put the <hi>power of life and Death;</hi>
+And whatſoever bloud is thus deſervedly ſhed, <hi>Non eſt
+effuſio ſanguinis, ſed Legum Ministerium</hi> ſaith St. <hi>Hie<g ref="char:EOLhyphen"/>rome,</hi>
+is not Murther but Juſtice. Such bloud hath no
+<hi>voice,</hi> as the <hi>Bloud of Abel</hi> had, but having nothing to
+plead for it ſelf, is dumb and quiet. <hi>Guilty Bloud,</hi> let
+out by the hand of Juſtice for the preſervation of the <hi>Bo<g ref="char:EOLhyphen"/>dy
+politique,</hi> makes no more noiſe in the Eares of God,
+then the <hi>Bloud</hi> that's let out of a <hi>vein</hi> by the hand of a
+<hi>ſkilful Phiſician,</hi> for the preſervation of the <hi>Body Natural.</hi>
+And thus you ſee how the Magiſtrate comes to be a <hi>Re<g ref="char:EOLhyphen"/>venger;</hi>
+God hath put him into his own ſeat, and put
+his own ſword into his hand, to execute that Vengeance
+which before he executed himſelf.</p>
+            <p>And that this is ſo, beſide what hath been already ſaid,
+may be further proved by our <hi>Apostle</hi> himſelf; who
+though in the Text he brings in God laying claim to Ven<g ref="char:EOLhyphen"/>geance
+as his peculiar, yet within ſix or ſeven verſes after
+(<hi>Rom.</hi> 13. 4.) he tells us, that the Magiſtrate is the <hi>Mini<g ref="char:EOLhyphen"/>ſter
+<pb n="9" facs="tcp:33520:7" rendition="simple:additions"/>
+of God,</hi> a REVENGER <hi>to execute wrath upon him
+that doth evil.</hi> Now certainly (as <hi>Grotius</hi> obſerves) the
+<hi>holy Ghoſt</hi> would not ſpeak <hi>Contradictions;</hi> and therefore
+the Text muſt be neceſſarily underſtood of <hi>Private Re<g ref="char:EOLhyphen"/>venge,</hi>
+executed by private Perſons <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plendi doloris cauſa</hi>
+to gratify their own malice, not of <hi>Vindictive Justice,</hi>
+which the Magiſtrate, who is Gods deputy, doth in his
+<hi>Name,</hi> and by his Authority execute. And then ſo ſacred
+is the <hi>Name,</hi> ſo uncontrolable the <hi>Mouth</hi> of Juſtice, that
+after the ſentence prounounced, No private hand muſt
+meddle, no other puniſhment muſt be inflicted; <hi>'tis Fe<g ref="char:EOLhyphen"/>lony</hi>
+to kill a <hi>Malefactor</hi> going to the <hi>Gallows.</hi> Now God
+to honour the Magiſtrate, and to make him a more fit
+<hi>Repreſenter</hi> of his own Majeſty on Earth, hath commu<g ref="char:EOLhyphen"/>nicated
+three things to him, which he hath not to others.</p>
+            <p>1. He hath communicated his own <hi>Name</hi> to him. <hi>I
+have ſaid ye are Gods</hi> &amp;c. and, <hi>Thou ſhalt not revile the
+Gods, nor curſe the Ruler of the people, Exod.</hi> 22 28. It
+is the obſervation of <hi>Justin Martyr,</hi> or whoever was the
+Author of thoſe <hi>Queſtions and Anſwers to the Orthodox,</hi>
+               <note place="margin">Qu. &amp; Reſ. ad <hi>Orthod.</hi> qu. 124.</note>
+which go under his Name, That when ever God appoint<g ref="char:EOLhyphen"/>ed
+an <hi>Angel</hi> to tranſact any buſineſs in his <hi>Name</hi> with
+Mankind, that Angel was, during the time of that <hi>Tran<g ref="char:EOLhyphen"/>ſaction,</hi>
+called by the Name of God himſelf whom he re<g ref="char:EOLhyphen"/>preſented;
+but as ſoon as the buſineſs was done, he ceaſed
+to be called by the Name of God. He inſtanceth in <hi>Gen.</hi>
+18. 22. where the <hi>Angel</hi> that talked with <hi>Abraham</hi> is
+called <hi>Jehovah;</hi> and <hi>Gen. 32. 30. I have ſeen God face
+to face,</hi> ſaith <hi>Jacob,</hi> when he wreſtled with the An<g ref="char:EOLhyphen"/>gel;
+and <hi>Exodus</hi> 23. 20, 21. <hi>My name is in him,</hi> ſaith
+God, of the Angel that he ſent before the People of <hi>Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+If any body will contend that thoſe <hi>Angels</hi> were
+<hi>Chriſt,</hi> let him remember he muſt contend with the <hi>Au<g ref="char:EOLhyphen"/>thor</hi>
+               <pb n="10" facs="tcp:33520:8"/>
+of thoſe <hi>Questions,</hi> not with me. And then, he muſt
+contend with <hi>Grotius</hi> too, who juſtifies that Authors O<g ref="char:EOLhyphen"/>pinion,
+and from <hi>Heb.</hi> 1. 2. where it is ſaid, that <hi>God hath
+in theſe</hi> laſt days <hi>ſpoken to us by his Son,</hi>
+               <note place="margin">Grot. Expli. De calog. in praef<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</note> cenſures the other
+opinion with an <hi>Errant gaviter</hi> &amp;c. They do greatly erre
+who think that God did ſo frequently ſpeak to the world
+in thoſe <hi>firſt days</hi> by his Son, before the Incarnation. But
+(I ſay) as in theſe Authors <hi>Opinion,</hi> God put his own
+name upon thoſe Angels, whom he employed in ſome
+ſpeciall <hi>Embaſſies:</hi> So ('tis more clear, that) when God
+makes choice of a Man to ſupply his own Room in
+Judging the People, and executing Vengeance, he
+cloaths him with his own <hi>Titles,</hi> puts his own name upon
+him, during the Time of his <hi>Magiſtracy.</hi> So that when
+God ſaith, <hi>Ye are Gods,</hi> the meaning is (ſaith the ſame
+Father) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+I have conferred mine own Honour, Dignity,
+Order, and Name upon you; and therefore Judge you
+the People, as I my ſelf would judge them.</p>
+            <p>2. He hath with his Name conferred his own <hi>Power
+and Authority</hi> upon the Magiſtrate; ſo that what he doth
+juſtly,<note place="margin">In Ep. Rom. ſer. 23.</note> God himſelf doth by him. The Magiſtrate is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+to uſe St. <hi>Chryſoſtomes</hi> words, ſtamped
+with Gods own <hi>Image,</hi> and therefore ought to exerciſe
+Gods own <hi>Power.</hi> Now this <hi>ſtamp</hi> or <hi>Image</hi> of God upon the
+<hi>Magiſtrate,</hi> is not barely that which is yet left of his I<g ref="char:EOLhyphen"/>mage
+ſtampt upon Man at the Creation, whereby he is
+enabled to <hi>Rule over the Fiſh of the Sea, and the Foul of
+the Aire, and the Beaſts of the Field, Gen.</hi> 1. 28; nor bare<g ref="char:EOLhyphen"/>ly
+that part of it which ſin defaced, and is <hi>new ſtamped</hi>
+again in the <hi>Regeneration</hi> which is the <hi>Image of his holi<g ref="char:EOLhyphen"/>neſs,
+Epheſ.</hi> 4. 24; but it is more then all this: It is the
+<hi>Image</hi> of Gods own <hi>Authority</hi> and <hi>ſuperiority,</hi> and <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi>
+               <pb n="11" facs="tcp:33520:8" rendition="simple:additions"/>
+not onely over <hi>Beasts</hi> (as the firſt;) or over
+the <hi>Beſtial part</hi> (as the ſecond) but over <hi>Men.</hi> So that
+whereas every <hi>Rational man</hi> hath ſo far the Image of God
+upon him, as to rule over the other works of Gods hands;
+and every <hi>Regenerate Man</hi> ſo far, as to rule over himſelf,
+and bring into ſubjection the carnal part, the <hi>Magiſtrate</hi>
+hath a more expreſs image of God upon him, to rule
+over his <hi>Fellow Creature,</hi> man himſelf.</p>
+            <p>3. Beſide his Name and Authority, God hath alſo
+communicated his own <hi>Throne,</hi> his own <hi>Tribunal</hi> unto
+the Magiſtrate; he takes him up into his own ſeat, and
+(as <hi>Pharaoh</hi> did by <hi>Joſeph</hi>) makes him ſit next unto him.
+Therefore is the <hi>ſeat of Judgement,</hi> called expreſly
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>this place of the Holy, i. e.</hi> The place of
+God himſelf, <hi>Eccleſia. 8. 10. I ſaw the wicked buried,
+who had come and gone from the Place of the Holy.</hi> How<g ref="char:EOLhyphen"/>ever,
+Bad men may ſometimes get up into it, yet the place
+is <hi>Gods place,</hi> and the Perſon that lawfully ſits there, ſits
+in <hi>Gods Room,</hi> and the Judgement is Gods <hi>Judgement,</hi>
+and the Vengeance he executeth is <hi>Gods Vengeance.</hi> As
+<hi>Jehoſephat</hi> ſaid to his Judges, <hi>Take heed what you do, for
+ye judge not for man, but for the Lord, 2 Chro.</hi> 19. 6. And
+ſo you ſee my ſecond particular cleared, that though <hi>Ven<g ref="char:EOLhyphen"/>geance</hi>
+be Gods Prerogative, yet it is the <hi>Magiſtrates
+Duty.</hi>
+            </p>
+            <p>Before I go further, give me leave to draw two <hi>Corol<g ref="char:EOLhyphen"/>laries</hi>
+from this ſecond point.</p>
+            <p>1. As we have ſeen the <hi>Lawful power of Vengeance</hi>
+iſſuing down in an orderly way from the <hi>Throne of God;</hi>
+the <hi>ſupreme Magiſtrate</hi> receiving his Commiſſion from
+Heaven, the <hi>Inferiour Magiſtrates</hi> from the ſupreme,
+and ſo downward to the loweſt <hi>Ministers of Vengeance</hi>
+in a Kingdome: ſo 'tis all the Reaſon in the world, that
+<pb n="12" facs="tcp:33520:9"/>
+the <hi>Account</hi> for Executing this Power, ſhould aſcend up<g ref="char:EOLhyphen"/>ward
+again, in the ſame line that it came down. viz. That
+the <hi>ſubordinate Magiſtrate</hi> ſhould be accountable onely
+to the ſuperior, the <hi>ſuperior</hi> to the ſupreme, the <hi>ſupreme
+Magistrate</hi> on Earth onely to God, and <hi>God,</hi> being the <hi>ſu<g ref="char:EOLhyphen"/>preme</hi>
+both in Heaven and Earth, is accountable for his
+Actions to none. They that would ſet up a <hi>Plebeian Tribu<g ref="char:EOLhyphen"/>nal,</hi>
+to call their Betters to account, and <hi>Execute Vengeance</hi>
+upon their ſuperiours, do endeavour (once again to ſet the
+<hi>Kingdom upon its Head,</hi> with its heels upward and then
+the next News you hear, 'tis fallen all along upon its <hi>Back.</hi>
+            </p>
+            <p>2. <hi>The Magiſtrate,</hi> ſitting in Gods ſtead to execute
+Vengeance, ought to behave himſelf <hi>like God,</hi> whom he
+repreſents; <hi>i. e.</hi> to do Juſtice without <hi>Paſſion,</hi> without
+<hi>Partiality,</hi> with <hi>Pitty</hi> and <hi>Compaſſion</hi> to the greateſt offen<g ref="char:EOLhyphen"/>der.
+For thus God doth; <hi>Anger is not in me</hi> ſaith God,
+<hi>Eſai.</hi> 27. 4. and when God is ſaid in Scripture to be
+<hi>angry,</hi> 'tis but by an <hi>Anthropopathy,</hi> ſignifying onely <hi>
+                  <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>ciſcendi
+voluntatem,</hi> his will to puniſh. And God is not a
+<hi>Reſpecter</hi> of <hi>Perſons;</hi> and God <hi>pittyes</hi> even thoſe that he
+puniſheth. Magiſtrates of all men ſhould have nothing of
+<hi>paſſion</hi> or <hi>partiality,</hi> but very much of <hi>Pitty</hi> and <hi>Compaſſion</hi>
+in them. Aſentence proceeding upon any partial or paſſio<g ref="char:EOLhyphen"/>nate
+account, is a <hi>Species</hi> of <hi>private Revenge,</hi> though it pro<g ref="char:EOLhyphen"/>ceed
+from the Mouth of a <hi>publick perſon.</hi> My Lords; Give
+me leave onely thus far to be your <hi>Monitor;</hi> The Venge<g ref="char:EOLhyphen"/>ance
+you execute is <hi>Gods Vengeance,</hi> &amp; therefore execute
+it as <hi>God himſelf</hi> would doe, if he ſate upon the <hi>Bench.</hi>
+            </p>
+            <p>And thus have we traced this <hi>Fountain</hi> of Venge<g ref="char:EOLhyphen"/>ance
+from the <hi>Well-head</hi> in Heaven, through the <hi>streams</hi>
+of Magiſtracy, and hitherto 'tis clear and wholeſome.
+But now, if we go lower, we ſhall find it preſently no<g ref="char:EOLhyphen"/>thing
+but <hi>puddle</hi> and <hi>Filth;</hi> and that which was the <hi>Ma<g ref="char:EOLhyphen"/>gistrates
+<pb n="13" facs="tcp:33520:9"/>
+Duty,</hi> as ſoon as it falls into private hands is the
+<hi>Peoples ſin;</hi> which was my third particular, and comes
+now to be ſpoken to.</p>
+            <p>When the <hi>Diſciples</hi> had taken offence againſt the
+<hi>Samaritans,</hi> for an <hi>Incivility</hi> offered to their Maſter and
+them, they would fain have intereſted God in their own
+<hi>paſſionate Quarrel,</hi> and called for <hi>fire from Heaven</hi> to de<g ref="char:EOLhyphen"/>ſtroy
+them.<note place="margin">Aug. de ſer. Dom. in mon.</note> 
+               <hi>Luke</hi> 9. 54. But our <hi>Saviour</hi> ſharply rebukes
+them, <hi>Animadvertens eos non amore correctionem, ſed o<g ref="char:EOLhyphen"/>dio
+deſiderare vindictam,</hi> ſaith St. <hi>Auguſtine</hi> perceiving
+that they did not out of <hi>Love</hi> deſire their amendment,
+but out of hatred their deſtruction. The truth is, by that
+time God hath had his <hi>Portion of Vengeance,</hi> and the Ma<g ref="char:EOLhyphen"/>giſtrate
+his, here is nothing at all left for any <hi>Private
+Chriſtian</hi> in matters of <hi>Revenge;</hi> and therefore <hi>Dearly
+beloved Avenge not your ſelves;</hi> it belongs not to you up<g ref="char:EOLhyphen"/>on
+any Termes. And this <hi>Foundation</hi> of Doctrine being
+thus laid, it will be eaſie to diſcover the Principall <hi>Vices;</hi>
+which fight directly againſt the <hi>Text,</hi> and the <hi>Text</hi> againſt
+them.</p>
+            <p>1. All <hi>Rebellion, Sedition</hi> and <hi>Treaſon</hi> againſt the
+Higher Powers falls directly under the Condemnation
+of this Text. The rather, becauſe this ſort of <hi>Revenge</hi>
+doth not onely catch the <hi>ſword</hi> out of <hi>Gods hand,</hi> em<g ref="char:EOLhyphen"/>ployes
+it againſt <hi>God himſelf</hi> in his ſubſtitutes and Vice<g ref="char:EOLhyphen"/>gerents,
+and thruſts <hi>Gods ſword</hi> (as it were) in his <hi>own
+Face,</hi> ſo that this is a meer <hi>Giganto-Machy,</hi> a fighting of
+the Giants againſt Heaven;<note place="margin">Cic. 3. de. Leg.</note> in direct Termes a <hi>Theoma<g ref="char:EOLhyphen"/>chy,</hi>
+or fighting againſt God. <hi>Noſter vero Plato Titanum
+è genere ſtaiuit eos, qui, ut illi caeleſtibus, ſic hi adverſen<g ref="char:EOLhyphen"/>tur
+Magistratibus;</hi> Our Maſter <hi>Plato</hi> (ſaith he) doth
+derive their Pedigree from the Race of the Ancient <hi>Gi<g ref="char:EOLhyphen"/>ants,</hi>
+who reſiſt the <hi>Magiſtrates,</hi> as they did the <hi>Gods.</hi> St.
+<hi>Chryſoſtome</hi> affirmeth the ſame in like words; He that
+<pb n="14" facs="tcp:33520:10"/>
+obeyes not the Magiſtrate <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Wars with God.</hi>
+And St. <hi>Paul,</hi> a greater Authority then both, in words to
+the very ſame effect, <hi>Rom. 13. Whoſoever reſiſteth the
+power,</hi>
+               <note place="margin">B. Uſher Ob<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ſub. pag. 28.</note> 
+               <hi>reſiſteth the Ordinance of God.</hi> Nor is it a ſlight
+obſervation of the late moſt <hi>Learned primate of Armagh,</hi>
+That the <hi>Greeks,</hi> though they ſpake the moſt <hi>copious
+Language</hi> under Heaven, wherein a skillful man ſhall ne<g ref="char:EOLhyphen"/>ver
+want words to expreſſe himſelf, yet as if they were
+defective here, do uſually call <hi>Treaſon</hi> againſt Princes by
+the Name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Impiety.</hi> The <hi>Jews</hi> go a ſtep high<g ref="char:EOLhyphen"/>er
+and call it <hi>Blaſphemy;</hi> both ſins againſt the firſt Table.
+1 <hi>King. 21. 13. Naboth did blaſpheme God and the King.</hi>
+There's <hi>Blaſphemy</hi> againſt the <hi>King,</hi> as well as againſt <hi>God.</hi>
+Which words, though ſpoken by men of <hi>Belial,</hi> againſt
+an Innocent perſon, yet (no doubt) they uſed the Ordi<g ref="char:EOLhyphen"/>nary
+Expreſſions of their Countrey. Take heed then of
+any ſuch <hi>Private Revenge,</hi> which may carry you up to
+ſuch a high Degree of <hi>Impiety</hi> and <hi>Blaſphemy</hi> as to reſiſt
+or ſpeak evil of the <hi>powers ordained by God; Dearly be<g ref="char:EOLhyphen"/>loved,
+Avenge not your ſelves.</hi>
+            </p>
+            <p>2. The next Degree of <hi>Revenge</hi> condemned in the Text,
+is that of <hi>Duells.</hi> A ſin every way as <hi>ugly</hi> in the ſight of
+God, as it appears full of <hi>Bravery</hi> in the eyes of ſome vain
+men; of whom we may uſe St. <hi>Baſil's</hi> words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+He that doth <hi>beſt</hi> is the <hi>worſt</hi> man. A way of <hi>Re<g ref="char:EOLhyphen"/>venge</hi>
+as injurious to common <hi>Equity,</hi> as to <hi>Christian
+Religion.</hi> For beſide the injury it doth the Magiſtrate,
+in attempting to make him <hi>bear the ſword in vain,</hi> (and
+in vain he would bear it, if every man might ſo revenge
+his <hi>own Quarrels;</hi>) beſides the violence it offers to <hi>Juſtice,</hi>
+in making the <hi>puniſhment</hi> no way commenſurate to the
+<hi>offence;</hi> for every petty <hi>affront,</hi> and inconſiderable <hi>Re<g ref="char:EOLhyphen"/>proach</hi>
+(which <hi>Seneca</hi> calls <hi>Injuriarum <g ref="char:V">Ʋ</g>mbrae,</hi> the ſha<g ref="char:EOLhyphen"/>dows
+<pb n="15" facs="tcp:33520:10"/>
+of <hi>Injuries</hi>) is no leſſe then <hi>Death,</hi> by the <hi>Duellers
+Law;</hi> I ſay, beſide all this, this is the Danger that both
+the <hi>Combatants</hi> are involved in, that he that kills is an
+<hi>Actual,</hi> and he that is killed an <hi>Intentionall Murtherer.</hi>
+And much Fear there is, leaſt St. <hi>Bernards</hi> words ſhould
+prove too true <hi>Occiſor bethaliter peccat, occiſus aeternali<g ref="char:EOLhyphen"/>ter
+perit,</hi> He that kills, ſins <hi>mortally,</hi> and he that is killed
+periſheth <hi>eternally.</hi> I know the great Objection is the
+<hi>Gentlemans Reputation.</hi> But certainly if they are Chriſti<g ref="char:EOLhyphen"/>ans
+as well as <hi>Gentlemen,</hi> the <hi>Chriſtians Conſcience</hi> would
+do well to be looked after, as well as the <hi>Gentlemans
+Credit;</hi> Or if they are too <hi>high-ſpirited</hi> to be Chriſtians,
+that is, to <hi>forgive Injuries, and love Enemies,</hi> they were
+better renounce Chriſtianity before they draw their
+<hi>ſwords,</hi> that our <hi>Religion</hi> may no longer be <hi>blemiſhed</hi>
+with ſuch <hi>bloudy ſins.</hi> The truth is, I take every ſuch
+<hi>challenge</hi> to be a kind of <hi>Defiance to Jeſus Chriſt</hi> and his
+Doctrine; and I think the beſt way of anſwering it, would
+be in the words of the <hi>Chriſtian, Maid</hi> to the Devil, when
+he tempted her to ſin, <hi>Non poſſum, baptizata ſum;</hi> I can<g ref="char:EOLhyphen"/>not
+do it, I am a <hi>Chriſtian,</hi> and it is contrary to the <hi>Laws</hi>
+and <hi>commands</hi> of my Maſter <hi>Jeſus Chriſt.</hi> It would be
+far a more <hi>noble conqueſt</hi> for men inclinable to this way of
+<hi>Revenge,</hi> to conquer their own <hi>unruly</hi> and <hi>unchristian
+paſſions,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaid <hi>Plato;</hi> and <hi>Solomon</hi>
+a wiſer then he, will give you the <hi>Engliſh</hi> of it, Proverbs
+16. 32. <hi>He that is ſlow to Anger is better then the Mighty,
+and he that ruleth his ſpirit, then he that taketh a City.</hi>
+Conſider, whether it be fit to forſake <hi>Chriſt,</hi> to ſerve un<g ref="char:EOLhyphen"/>reaſonable
+mens <hi>Opinions;</hi> whether a man cannot be a
+<hi>Gentleman,</hi> unleſſe he be a <hi>Murderer;</hi> and whether there
+be no way to maintain a Mans <hi>Reputation,</hi> but by going
+to <hi>Hell. Dearly Beloved Avenge not your ſelves.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:33520:11"/>
+3. Another ſort of Revenge which falls foul upon
+the Text, is <hi>Pulpit-Vengeance.</hi> We will ſet out the Mini<g ref="char:EOLhyphen"/>ſters
+<hi>Tythe</hi> of the Sermon too. This ugly ſin many times
+creeps into the <hi>Church,</hi> and ſometimes it crawles up into
+the <hi>pulpit.</hi> For a Man that calls himſelf the <hi>Meſſenger
+of Jeſus Chriſt,</hi> to take <hi>ſanctuary</hi> in this place, where he
+may be ſure not to meet with an Anſwer, to vent, his
+<hi>private paſſions</hi> againſt <hi>particuler perſons,</hi> and make e<g ref="char:EOLhyphen"/>very
+<hi>petty Difference,</hi> betwixt his neighbour and Him his
+<hi>Text,</hi> is indeed a moſt <hi>unworthy peice of Revenge,</hi> and ſo
+altogether unbeſeeming a <hi>Miniſter,</hi> that it is beneath a
+<hi>Man.</hi> And the provoked Perſon may juſtly reply in St.
+<hi>Jeroms</hi> words, <hi>Hoc non eſt me emendare, ſed vitio tuo ſa<g ref="char:EOLhyphen"/>tisfacere;</hi>
+This is not to benefit my ſoul,<note place="margin">Hieron. Ep. 4</note> but to gratify
+thine own Revenge. And much more if he ſhould endea<g ref="char:EOLhyphen"/>vour
+ob<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iquely to inſinuate into the People a diſlike of
+their <hi>Governours,</hi> or to poſſeſſe them with <hi>prejudices</hi> a<g ref="char:EOLhyphen"/>gainſt
+the <hi>Government.</hi> When men are perſwaded that
+they cannot <hi>render to God the things that are Gods,</hi> with<g ref="char:EOLhyphen"/>out
+taking from <hi>Caeſar the things that are Caeſars,</hi> and
+that there is no way to pay the <hi>Corban,</hi> but by robbing
+the <hi>Exchequer,</hi> they are in Danger to mingle private Re<g ref="char:EOLhyphen"/>venge
+with their very <hi>prayers</hi> and <hi>Sermons.</hi> And when
+their <hi>Admirers</hi> are ready to cry out in the words of the
+Apoſtle, <hi>Yea what Zeal!</hi> perhaps it may more truly be re<g ref="char:EOLhyphen"/>plyed
+in the following words, <hi>Yea what Revenge!</hi> 2
+<hi>Cor.</hi> 7. 11. I ſay not that any do thus, I hope they do not;
+I onely tell you, there's Danger leaſt they ſhould, and
+deſire you that hear me that you would not; <hi>Dearly be-Beloved
+avenged, not your ſelves.</hi>
+            </p>
+            <p>If I ſhould now detain you longer, in proſecuting the
+more <hi>Brutiſh</hi> Revenge of <hi>Vulgar Tongues,</hi> and <hi>Fiſts,</hi> and
+<hi>clubs,</hi> with ſuch like <hi>Lapithean</hi> encounters, I ſhould but
+<pb n="17" facs="tcp:33520:11" rendition="simple:additions"/>
+abuſe your Patience. And therefore I ſhall ſtop here;
+and come in the laſt place to the <hi>wary countrymen,</hi> whoſe
+Vengeance lies under the ſhelter of the <hi>Law:</hi> and who
+will not ſtick to give a <hi>Fee</hi> to be taught a handſome way
+how to be revenged ſafely. And if he hath now a <hi>Tryall</hi>
+at the <hi>Aſſizes,</hi> he may perhaps by this time (if he takes ſo
+much Notice of Sermons) be willing to hear, whether
+it be <hi>lawfull</hi> in point of <hi>conſcience to go to Law;</hi> and
+whether it be not a ſort of <hi>private Revenge,</hi> for a Man to
+put his Neighbour to <hi>charges.</hi> Eſpecially, when Chriſt
+ſaith,) <hi>Reſiſt not evil,</hi> and the <hi>Apoſtle</hi> blames the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi>
+for going to Law, 1 Cor. 6. 1. 2. &amp;c.</p>
+            <p>1. In generall. That <hi>Chriſtians</hi> may with a good
+Conſcience implead each other before a <hi>Chriſtian Magi<g ref="char:EOLhyphen"/>ſtrate,</hi>
+may be ſufficiently proved by a Reaſon drawn
+from the Text it ſelf. Becauſe this is not the <hi>Avenging
+of our ſelves,</hi> but a <hi>Referring of Vengeance</hi> to him to
+whom it belongs, <hi>viz:</hi> to God, in the Perſon of his <hi>Vice<g ref="char:EOLhyphen"/>gerent.</hi>
+There are two things in every conſiderable and
+juſt occaſion of <hi>Law-ſuits,</hi> that is, the <hi>Injury,</hi> and to do
+good for evil; yet if the <hi>Damage</hi> he receives by it, either
+in his Eſtate or good name, be great, and ſuch as he can<g ref="char:EOLhyphen"/>not
+well bear, he is not bound to remit that, but may
+ſeek for <hi>Reparations</hi> from the <hi>Magiſtrate,</hi> whoſe work
+it is. When therefore the <hi>Apoſtle</hi> blames the <hi>Corinthians</hi>
+for going to Law, the <hi>Reaſon</hi> is apparent in the very <hi>Re<g ref="char:EOLhyphen"/>proof;</hi>
+becauſe they impleaded one another for every
+<hi>Triflle,</hi> before <hi>Heathen Tribunalls,</hi> to the <hi>Reproach of
+Chriſtianity.</hi> And for that of our Saviour, <hi>Reſiſt not evil,
+Bellarmine</hi> ſaith well,<note place="margin">Bellar. de Laicis. l. 3. c. 13.</note> (I wiſh he had never ſaid worſe,)
+<hi>Non Defenſio, ſed vindicta prohibetur;</hi> It is not Defence,
+but Revenge that is there forbidden; and that not all
+Revenge neither but that <hi>Quam privati Homines per ſe
+<pb n="18" facs="tcp:33520:12"/>
+Exercere volunt,</hi> which private men would exerciſe up<g ref="char:EOLhyphen"/>on
+their own, account, without the Magiſtrate. And this
+(in a word) anſwers that old <hi>Heatheniſh cavil againſt the
+Doctrine of Chriſt,</hi> which St. <hi>Aug.</hi> con<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s at large in his
+5. Epiſtle<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>Marcelinus.</hi>
+               <note place="margin">Marcel. ad Aug. Ep. 4 &amp; Aug. ad marc. Ep. 5.</note> The Objection was this <hi>Quod
+praedicatio atque Doctrina Chriſti Reipublicae moribus
+nullâ ex parte conveniat;</hi> That this Doctrine of Chriſti<g ref="char:EOLhyphen"/>anity
+(if it were received) would deſtroy all Civil Go<g ref="char:EOLhyphen"/>vernment,
+pull down all <hi>Tribunalls,</hi> and ſeats of Judica<g ref="char:EOLhyphen"/>ture;
+becauſe it allowes nothing of <hi>ſelf-defence,</hi> but bids
+turn the <hi>other cheek,</hi> and give the <hi>Cloak after the Coat,</hi>
+&amp;c. All amounts but to this, <hi>That</hi> we muſt bear an inju<g ref="char:EOLhyphen"/>ry,
+if we cannot right our ſelves without doing another;
+but where the latter may be done, the other is not neceſ<g ref="char:EOLhyphen"/>ſary.</p>
+            <p>If any one think that the Door is now wide enough,
+for every <hi>common Barretor,</hi> and Litigious <hi>Client</hi> to enter;
+I ſhall endeavour to ſet it at the juſt <hi>Diſtance</hi> the Scri<g ref="char:EOLhyphen"/>pture
+would have it ſtand; and then if your Cauſes be
+not too boiſtrous to get through it, <hi>Go on and proſper.</hi>
+            </p>
+            <p>1. To make a Law-ſuit juſt in the <hi>Court of Conſci<g ref="char:EOLhyphen"/>ence,</hi>
+it muſt be grounded upon a <hi>juſt cauſe.</hi> And there<g ref="char:EOLhyphen"/>fore
+I ſhall ſay to you, as <hi>Abſalom</hi> (upon a more wicked
+deſign) ſaid once to the People, onely with a little vari<g ref="char:EOLhyphen"/>ation;
+<hi>ſee your matters are good and right, for here are
+Men deputed of the King to hear you. 2. Sam.</hi> 15. 3. Take
+heed of vexing thy Neighbour, when thine own <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi>
+will tell thee without a <hi>Fee,</hi> that thy <hi>cauſe</hi> is naught
+and cannot be maintained but by <hi>Lying, perjury,</hi> and ſuch
+like <hi>unrighteous Proceedings.</hi>
+            </p>
+            <p>2. A juſt Cauſe may become unjuſt, by being un<g ref="char:EOLhyphen"/>juſtly
+proſecuted; and that either.</p>
+            <p>1. When it is proſecuted with <hi>Anger, Malice,</hi> or a
+<pb n="19" facs="tcp:33520:12"/>
+               <hi>Deſigne of Revenge. Say not, I will do ſo to him, as he hath
+done to me,</hi>
+               <note place="margin">Ambros Ep. 28.</note> 
+               <hi>I will render to the man according to his work.</hi>
+Pro. 24. 29. <hi>Quae enim, virtus hoc a te fieri, quod in altero
+ipſe punias?</hi> Saith <hi>Ambroſe;</hi> For what vertue is it, for thee
+to do that thy ſelf, which thou pretendeſt to puniſh in a<g ref="char:EOLhyphen"/>nother?
+This is nothing elſe but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a contend<g ref="char:EOLhyphen"/>ing
+who ſhall outdoe the other in <hi>Miſchief.</hi> To avoid
+which, you muſt manifeſt all manner of <hi>Civility, Courteſy,</hi>
+and a Readineſs to do good to him with whom the ſuit
+is, that it may appear it is not <hi>Revenge,</hi> but <hi>Reparations</hi>
+you ſeek after. When <hi>Julius Caeſar</hi> had the Head of <hi>Pom<g ref="char:EOLhyphen"/>pey,</hi>
+his Mortal Enemy, preſented to him, he wept and
+ſaid, <hi>Non mihi placet Vindicta ſed Victoria;</hi> It was not
+Revenge but victory that I intended. A ſhame for Chri<g ref="char:EOLhyphen"/>ſtians
+who cannot be content with <hi>Victory,</hi> unleſſe they
+have alſo <hi>Revenge.</hi> 'Tis an excellent Rule for thoſe that
+go to Law, <hi>ſic certent cauſae, ut non certent Pectora,</hi> Let
+the cauſes contend, but let the men be Friends.</p>
+            <p>2. when the ſuit is purpoſely drawn out in length, <hi>ſtu<g ref="char:EOLhyphen"/>dio
+molestias exhibendi proxime,</hi> to exhauſt the Purſe,
+and tire the Patience of the Adverſary. And indeed its a
+ſhrewd ſuſpition, either of the <hi>Badneſs of the Cauſe,</hi> or
+the <hi>Malice of the Man,</hi> when he is willing to ſpin out the
+ſuit. By this means <hi>Innocence</hi> ſometimes in a long <hi>chaſe</hi>
+is hunted out of <hi>Breath,</hi> and forced to fall down at the
+Feet of ſome mighty <hi>Nimrod.</hi> To avoid this ſuſpition,
+you muſt be willing, with what ſpeed you may to bring
+it to am iſſue: and then</p>
+            <p>3. Sentence pronounced muſt be received <hi>tanquam ex
+Tripode,</hi> or in <hi>Seneca's</hi> words, <hi>velut dimiſſa divinitus vox,</hi>
+without any murmuring, or repining, as if God himſelf
+had decided the controverſy. It is a Rule in the Civil Law
+<hi>Res judicata pro veritate accipitur,</hi> A matter adjudged is
+<pb n="20" facs="tcp:33520:13"/>
+preſumed to be Truth. Nor is there generally any Rea<g ref="char:EOLhyphen"/>ſon
+to think otherwiſe. <hi>I</hi> know but one objection (ſup<g ref="char:EOLhyphen"/>poſing
+the Magiſtrate upright and conſcientious) which
+carries any ſhew of Reaſon againſt it, <hi>viz.</hi>
+            </p>
+            <p>Though God hath ſet the Magiſtrate in his own room,
+yet he hath not communicated his Attributed of <hi>Omni<g ref="char:EOLhyphen"/>ſcience,</hi>
+and <hi>Omnipreſence</hi> to him. And he being forced to
+ſee with <hi>other mens eyes,</hi> and here with <hi>other mens ears,</hi>
+it may be poſſible that there may be an <hi>Errour in Judge<g ref="char:EOLhyphen"/>ment,</hi>
+and yet no <hi>Fault in the Judge.</hi>
+            </p>
+            <p>To which the Anſwer is eaſie. As far as the Law al<g ref="char:EOLhyphen"/>lows
+of <hi>Appeals,</hi> a Chriſtian may with a good Conſcience
+make uſe of them. This being ſtill not a taking of the
+ſword of vengeance out of Gods hand, but onely the <hi>Pro<g ref="char:EOLhyphen"/>vocation</hi>
+from the inferiour to the ſuperiour Gods. S. <hi>Paul</hi>
+himſelf appealed to <hi>Caeſar,</hi> when he could not expect ju<g ref="char:EOLhyphen"/>ſtice
+from the <hi>Roman Deputy, Act.</hi> 25. 11. But if at laſt
+the man ſhould ſtill ſuppoſe himſelf wronged (which
+would be almoſt an unreaſonable ſuppoſition) he hath
+no other <hi>Remedy on Earth,</hi> but with <hi>Patience</hi> and <hi>Sub<g ref="char:EOLhyphen"/>miſſion</hi>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>commit his Cauſe</hi> (as our Saviour did, 1 Pet. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.
+23.) <hi>to him that judgeth Righteouſly;</hi> to expect another
+<hi>Hearing in Heaven,</hi> where all Cauſes ſhall be judged o<g ref="char:EOLhyphen"/>ver
+again; and to remember, that though he be oppreſ<g ref="char:EOLhyphen"/>ſed
+<hi>ſine culpâ,</hi> yet it is not <hi>ſine cauſâ</hi> as <hi>Aquinas</hi> hath it.
+Gods ſees <hi>Faults</hi> enough in him to lay an heavier <hi>puniſh<g ref="char:EOLhyphen"/>ment</hi>
+upon him.</p>
+            <p>In ſuch a <hi>Caſe</hi> (if ſuch a Caſe may fall out) it concerns
+a <hi>Christian</hi> to reflect upon his ſins, and amend his life,
+not to add another ſin to the Heap, by reviling the Ma<g ref="char:EOLhyphen"/>giſtrate
+or railing upon the Law. It is a ſaying in Tacitus,
+<hi>Habet aliquid ex iniquo omne magnum Exemplum;</hi> It is a
+difficult thing to make <hi>publick Laws,</hi> with ſo much <hi>cauti<g ref="char:EOLhyphen"/>on,</hi>
+               <pb n="21" facs="tcp:33520:13"/>
+but that they may ſometimes redound to the preju<g ref="char:EOLhyphen"/>dice
+of ſome <hi>private perſons.</hi>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>ſher. Obſ. of ſub. P 153.</note> The learned <hi>Primate gives</hi>
+us a conſiderable Inſtance; God himſelf made a Law, that
+<hi>at the mouth of two or three witneſſes, a malefactour ſhould
+be put to death, Deut.</hi> 17. 6. accordingly, <hi>Innocent Na<g ref="char:EOLhyphen"/>both</hi>
+was put to death upon the <hi>ſubornation</hi> of two <hi>falſe
+witneſſes, 1 King.</hi> 21. 13. ſhould that Law therefore be
+aboliſhed? ſhould nothing be determined by the <hi>mouth</hi>
+of two or three <hi>Witneſſes?</hi> would not the <hi>Impunity</hi> of ma<g ref="char:EOLhyphen"/>ny
+<hi>Malefactors</hi> tend more to the Damage of the <hi>Publique</hi>
+then the caſual puniſhment of one <hi>Innocent? I</hi> conclude
+therefore, when men either upon pretended or real inju<g ref="char:EOLhyphen"/>ry
+vent their ſpleen upon the magiſtrates and Laws, it's
+<hi>private Revenge,</hi> and utterly unbeſeeming the <hi>meekneſs</hi>
+and <hi>Patience</hi> of a Chriſtian.</p>
+            <p>And thus <hi>I</hi> have told you what you may do; let me,
+now in the laſt place tell you what <hi>I</hi> would adviſe you
+to do: for every thing that is <hi>Lawful,</hi> is not always <hi>expe<g ref="char:EOLhyphen"/>dient.</hi>
+            </p>
+            <p>1. For ſmall, inconſiderable wrongs, or damages, put
+them up, and bear them patiently. <hi>Forgive as you would
+be forgiven.</hi> God hath greater things againſt thee, then
+thou haſt againſt thy Brother. Take heed then of taking
+thy <hi>Fellow ſervant</hi> by the <hi>Throat,</hi> for the <hi>odd penny</hi> leaſt
+God ſcore up thy <hi>Talents</hi> againſt thee, and deliver thee
+to the <hi>Tormenters,</hi> till thou pay the <hi>utmoſt Farthing, Mat.</hi>
+18. 28. <hi>&amp;c.</hi> Hearken to that advice of the <hi>Apoſtle, Eph.</hi> 4.
+32. <hi>Be ye kind one to another, tender-hearted, forgiving
+one another, even as God for Christs ſake hath forgiven
+you.</hi> And Col. 3. 13. <hi>For bearing one another, and fogi<g ref="char:EOLhyphen"/>ving
+one another,</hi>
+               <note place="margin">Lactant,</note> 
+               <hi>if any man hath any quarrel againſt a<g ref="char:EOLhyphen"/>ny
+even as Chriſt forgave you, ſo alſo do yee.</hi> He hath done
+thee wrong; what then? <hi>Non minus mali eſt referre inju<g ref="char:EOLhyphen"/>riam,
+<pb n="22" facs="tcp:33520:14"/>
+quam inferre;</hi> To Revenge is as great a ſin, as to
+do an injury. When all is done, our <hi>Saviours advice</hi> is beſt
+(and if you will not follow that, you may <hi>pay dearer for
+worſe Counſel</hi>) In your patience poſſeſſe you ſouls. <hi>Luke.</hi>
+21. 19.</p>
+            <p>2. For thoſe things that are of greater conſequence, be
+ready to <hi>offer ſatisfaction,</hi> if thou haſt done injury; <hi>to take</hi>
+it, if injury hath been done to thee. And embrace all e<g ref="char:EOLhyphen"/>quitable
+Termes of <hi>Reconciliation,</hi> nay rather recede
+ſomething from thy <hi>Right,</hi> then foment a <hi>quarrel,</hi> that it
+may appear it is not thy <hi>Fault,</hi> if the <hi>Breach</hi> be not made
+up. <hi>Why do yee not rather take wrong? Why do yee not ra<g ref="char:EOLhyphen"/>ther
+ſuffer your ſelves to be defrauded?</hi> ſaith the Apoſtle
+1 Cor. 6. 7.</p>
+            <p>3. Do nothing in <hi>Raſh Anger</hi> againſt thy offending
+Brother. Lay aſide <hi>paſſion,</hi> and firſt weigh both cauſes in
+the <hi>Ballance</hi> of diſcretion, with calm and ſedate Affecti<g ref="char:EOLhyphen"/>ons,
+before you ſeek a <hi>Remedy,</hi> which may prove worſe
+then the diſeaſe. 'Tis good Counſell which <hi>Solomon</hi> gives
+you, <hi>Pro. 25. 8. Go not forth haſtily to ſtrive, leaſt thou
+know not what to do in the end thereof, when thy neighbor
+hath put thee to ſhame. Ira peccati Magiſtra eſt,</hi> ſaith <hi>Am<g ref="char:EOLhyphen"/>broſe;</hi>
+Anger is the <hi>Mistreſe</hi> of ſin; and Revenge is the
+<hi>Hand-Maid</hi> of Anger; and the next word you hear from
+an Angry man, is, <hi>I'le be reveng'd.</hi> Yea, but hear what
+<hi>Seneca</hi> (a Heathen man) will tell thee, <hi>Inhumanum ver<g ref="char:EOLhyphen"/>bum
+eſt <g ref="char:V">Ʋ</g>ltio;</hi> Revenge is a Brutiſh, barbarous word. If
+<hi>Dogs and Beares</hi> could ſpeak, they would talk of <hi>Revenge</hi>
+juſt as you do. One ſaid well, <hi>There is no ſuch Injury as
+Revenge, and no ſuch Revenge as the contempt of an inju<g ref="char:EOLhyphen"/>ry.</hi>
+            </p>
+            <p>4. Fortify your ſouls with Rational and Scriptural <hi>Ar<g ref="char:EOLhyphen"/>guments,</hi>
+againſt that intemperate and exorbitant <hi>paſſion</hi>
+               <pb n="23" facs="tcp:33520:14"/>
+of Anger and Revenge ſuch as theſe, which I ſhall but
+mention.</p>
+            <p>1. It's Diſcovery of much <hi>Impotency</hi> and weakneſs
+of <hi>Judgement,</hi> to be ſo tranſported <hi>Invalidum omne na<g ref="char:EOLhyphen"/>tura
+querulum eſt;</hi>
+               <note place="margin">Senec.</note> The weaker any thing is the more que<g ref="char:EOLhyphen"/>rulous
+ever. Children, and old, and ſick people are moſt
+apt to be angry.</p>
+            <p>2. It <hi>degrades</hi> the Noble, Reaſonable ſoul, and turns
+it down into the <hi>Rank</hi> of the moſt malitious and Raven<g ref="char:EOLhyphen"/>ous
+<hi>Beasts.</hi> Anger and Revenge in a Man, is the ſame ſaith
+<hi>Baſil</hi> that <hi>poyſon</hi> in a ſepent. Now a venemous Beaſt doth
+not onely <hi>do hurt</hi> by his poyſon, but is <hi>provoked</hi> and ſtir<g ref="char:EOLhyphen"/>red
+up by it to do hurt. So is Anger and Revenge in a
+man; it doth not onely <hi>enable</hi> him to do miſchief, but <hi>pro<g ref="char:EOLhyphen"/>vokes</hi>
+him to it.</p>
+            <p>3. It fetcheth <hi>coales out</hi> of Hell, to kindle a <hi>Fire</hi> in the
+Heart, and the <hi>Devil</hi> comes along with it, to blow thoſe
+<hi>coals.</hi> ſo t<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at if you give not place to <hi>wrath</hi> you muſt
+give place to the Devil, to that <hi>Devil of Revenge, Eph.</hi> 4.
+26. 27. which if once admitted, will ſet the <hi>whole courſe
+of Nature on fire of Hell, Jam.</hi> 3. 6. Such ſober conſidera<g ref="char:EOLhyphen"/>tions
+as theſe (if timely applyed) may happen to <hi>charme</hi>
+that evil ſpirit of <hi>Revenge,</hi> and caſt him out, before he
+hath taken the full poſſeſſion of the ſoul.</p>
+            <p>5. Imitate the Examples of the beſt and wiſeſt men,
+who have looked upon nothing ſo <hi>irrational</hi> as Revenge
+nothing ſo <hi>noble</hi> as Forgiveneſs. What Revenge do you
+think, that pious <hi>Barnard</hi> did wiſh to the worſt Enemies
+he had in the world?<note place="margin">Bern. ſer. 63. ſup. Cant.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>tinam omnes adverſantes mihi ſine
+cauſâ ita capere poſſim, ut Chriſto eos vel reſtituam, vel ac<g ref="char:EOLhyphen"/>quiram.</hi>
+He wiſheth this Revenge to all his cauſeleſſ e<g ref="char:EOLhyphen"/>nemies,
+that he might be an <hi>Instrument</hi> to reſtore them, or
+win them to <hi>Chriſt.</hi> That indeed is the right <hi>Chriſtian Re<g ref="char:EOLhyphen"/>venge,</hi>
+               <pb n="23" facs="tcp:33520:15"/>
+which our Saviour <hi>Jeſus-Chriſt</hi> hath taught us,
+not onely by his <hi>Precept</hi> but <hi>Example</hi> too, viz. to wiſh
+well and do well to the <hi>worſt enemies</hi> we have.</p>
+            <p>6. Laſt of all, if Scripture and Chriſtian Examples will
+not prevail, learn this leſſon, and be aſhamed, even of
+<hi>Heathens and Turkes.</hi> of <hi>Julius Caeſar</hi> it is reported, <hi>Quad
+nihil obliviſci ſolebat, niſi injurias,</hi> that he forgat nothing
+but injuries; he had an excellent memory for any thing
+elſe, but injuries and ſhrewd turns he could not remem<g ref="char:EOLhyphen"/>ber.
+Nay the very <hi>Turkes</hi> themſelves (they ſay) when
+they ſee their Fellows quarrelling, or fighting, or reviling
+one another, will reprove them thus; what, a <hi>Muſſelman</hi>
+do ſo? fie upon't 'tis enough for a Chriſtian. And <hi>fie upon
+us</hi> indeed, that we have given them ſuch occaſion to ſpeak
+thus of us. While we are <hi>Turks</hi> one to another, we may
+fear leaſt God ſhould make the <hi>Turk</hi> a <hi>Turk</hi> to us all. If
+we give them occaſion thus to <hi>Reproach and blaſpheme
+Chriſt,</hi> it is but juſt if Chriſt, give them occaſion to <hi>ha<g ref="char:EOLhyphen"/>raſſe
+and lay waſt Chriſtendome.</hi> God Almighty power
+down his holy ſpirit among us, that we may live in Love
+and Peace, and the God of Love and Peace may be
+with us; to which God of Love and Peace, Father, Son,
+and Holy Ghoſt, be all glory and praiſe &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
